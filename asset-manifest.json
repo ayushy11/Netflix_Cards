@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Netflix_Cards/static/css/main.b9b22f29.chunk.css",
+    "main.js": "/Netflix_Cards/static/js/main.07ac5074.chunk.js",
+    "main.js.map": "/Netflix_Cards/static/js/main.07ac5074.chunk.js.map",
+    "runtime-main.js": "/Netflix_Cards/static/js/runtime-main.c9162982.js",
+    "runtime-main.js.map": "/Netflix_Cards/static/js/runtime-main.c9162982.js.map",
+    "static/js/2.8c8b2fa5.chunk.js": "/Netflix_Cards/static/js/2.8c8b2fa5.chunk.js",
+    "static/js/2.8c8b2fa5.chunk.js.map": "/Netflix_Cards/static/js/2.8c8b2fa5.chunk.js.map",
+    "index.html": "/Netflix_Cards/index.html",
+    "static/css/main.b9b22f29.chunk.css.map": "/Netflix_Cards/static/css/main.b9b22f29.chunk.css.map",
+    "static/js/2.8c8b2fa5.chunk.js.LICENSE.txt": "/Netflix_Cards/static/js/2.8c8b2fa5.chunk.js.LICENSE.txt",
+    "static/media/img1.8aa10e99.jpg": "/Netflix_Cards/static/media/img1.8aa10e99.jpg",
+    "static/media/img2.89d32479.jpg": "/Netflix_Cards/static/media/img2.89d32479.jpg",
+    "static/media/img3.2e9e6b15.jpg": "/Netflix_Cards/static/media/img3.2e9e6b15.jpg",
+    "static/media/img4.28177cb6.jpg": "/Netflix_Cards/static/media/img4.28177cb6.jpg",
+    "static/media/img5.9e2ddb8c.jpg": "/Netflix_Cards/static/media/img5.9e2ddb8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9162982.js",
+    "static/js/2.8c8b2fa5.chunk.js",
+    "static/css/main.b9b22f29.chunk.css",
+    "static/js/main.07ac5074.chunk.js"
+  ]
+}
